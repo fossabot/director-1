@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frios%2Fdirector.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frios%2Fdirector?ref=badge_shield)
+
 ========
 Director
 ========
@@ -127,3 +129,7 @@ If you wish to cite the director, please use:
       year = 2015,
       url = "http://github.com/RobotLocomotion/director"
     }
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frios%2Fdirector.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frios%2Fdirector?ref=badge_large)
